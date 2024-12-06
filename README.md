@@ -6,7 +6,7 @@ This repository contains detailed documentation of an Incident Response and Revi
 Date of the incident: September 20, 2023.
 Key findings during identification and investigation, including malicious IP detection, log analysis, and signs of compromise such as SQL corruption, lateral movement, and malware presence.
 2. Tools Used:
-VirusTotal, AbuseIPdb, and ChatGPT for threat intelligence, log analysis, and documentation support.
+VirusTotal, AbuseIPdb for threat intelligence, logs from Windows Event Viewer, Wireshark, and for documentation support - ChatGPT.
 3. Incident Analysis:
 Comprehensive analysis of logs, network traffic, and compromised systems.
 Highlights of potential attack vectors, including compromised credentials, privilege escalation, and malware activity.
