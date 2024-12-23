@@ -1,6 +1,6 @@
 # Incident-Response-
 Description:
-This repository contains detailed documentation of an Incident Response and Review Mini Sprint, focusing on identifying, containing, and mitigating a cybersecurity incident. The report outlines the following:
+This repository contains detailed documentation of an Incident- Unusual network activity, focusing on identifying, containing, and mitigating a cybersecurity incident. The report outlines the following:
 
 1. Incident Overview:
 Date of the incident: September 20, 2023.
